@@ -1,0 +1,15 @@
+#op:hover {
+ filter: opacity(0.7)
+}
+
+@media all and (max-width: 576px) {
+
+    height:  ;
+    object-fit: cover;
+
+}
+
+.centrar{
+
+    text-align: center;
+}
